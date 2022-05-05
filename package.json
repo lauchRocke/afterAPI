@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lauchRocke/afterAPI/issues"
   },
-  "homepage": "https://github.com/lauchRocke/afterAPI#readme"
+  "homepage": "https://github.com/lauchRocke/afterAPI#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
